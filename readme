@@ -1,0 +1,5 @@
+In order to use this project, it is necessary:
+-to have mysql installed
+-to source the scriptCreation.sql file
+-to create a java project and insert all the files present in src
+-to download the different libraries
